@@ -71,9 +71,9 @@
     "typescript": "^2.9.1"
   },
   "dependencies": {
-    "asap": "^2.0.3",
-    "inline-style-prefixer": "^4.0.2",
-    "string-hash": "^1.1.3"
+    "asap-esmodule-browser-export": "^2.0.6",
+    "inline-style-prefixer-esmodule-browser-export": "^5.0.2",
+    "string-hash-esmodule-browser-export": "^1.1.4"
   },
   "tonicExampleFilename": "examples/runkit.js",
   "nyc": {
