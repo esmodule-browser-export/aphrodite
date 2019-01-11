@@ -1,6 +1,6 @@
 {
   "name": "aphrodite-esmodule-browser-export",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "description": "Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation",
   "keywords": [
     "css",
@@ -71,9 +71,9 @@
     "typescript": "^2.9.1"
   },
   "dependencies": {
-    "asap-esmodule-browser-export": "^2.0.6",
+    "asap-esmodule-browser-export": "^2.0.7",
     "inline-style-prefixer-esmodule-browser-export": "^5.0.2",
-    "string-hash-esmodule-browser-export": "^1.1.4"
+    "string-hash-esmodule-browser-export": "^1.1.5"
   },
   "tonicExampleFilename": "examples/runkit.js",
   "nyc": {
